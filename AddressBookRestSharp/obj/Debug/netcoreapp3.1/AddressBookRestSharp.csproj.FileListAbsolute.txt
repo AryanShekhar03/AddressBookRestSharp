@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.exe
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.deps.json
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.dll
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\bin\Debug\netcoreapp3.1\AddressBookRestSharp.pdb
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.dll
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.pdb
+C:\Users\Shivam Shekhar\source\AddressbookRestSharp\AddressBookRestSharp\obj\Debug\netcoreapp3.1\AddressBookRestSharp.genruntimeconfig.cache
